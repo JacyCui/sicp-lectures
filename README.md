@@ -1,10 +1,15 @@
-SICP视频列表
+# SICP系列视频更新日志
 
 
 
-| 条目  | 主题             | 视频链接 |
-| ----- | ---------------- | -------- |
-| Lec01 | Computer Science |          |
-| Lab00 | Start Up         |          |
-| Lec02 |                  |          |
+| 条目   | 主题                                            | 视频链接                                    |
+| ------ | ----------------------------------------------- | ------------------------------------------- |
+| lec01  | Computer Science（计算机科学）                  | https://www.bilibili.com/video/BV1ML4y1P7KN |
+| lab00  | Start Up（环境配置和评分系统）                  | https://www.bilibili.com/video/BV1aY411N7ZQ |
+| lec02  | Functions（函数）                               | https://www.bilibili.com/video/BV1rv4y1M7GP |
+| hw01   | Variables&Functions,Control（变量、函数和控制） | https://www.bilibili.com/video/BV13Z4y1i7Jw |
+| lec03  | Control（控制）                                 | https://www.bilibili.com/video/BV1QT411g7dp |
+| lab01  | Variables&Functions,Control（变量、函数和控制） | https://www.bilibili.com/video/BV1yB4y1v7F7 |
+| lec04  | Higher-Order Functions（高阶函数）              | https://www.bilibili.com/video/BV1MB4y1B7GD |
+| proj01 | Hog（野猪掷骰子）                               | https://www.bilibili.com/video/BV1mY4y1n7i5 |
 
