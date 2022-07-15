@@ -23,6 +23,10 @@
 | lec07  | Recursion（递归）                                            | https://www.bilibili.com/video/BV1Ca411p7j5 |
 | lec08  | Tree Recursion（树形递归）                                   | https://www.bilibili.com/video/BV1FT411J7Tq |
 | hw02   | Recursion（递归）                                            | https://www.bilibili.com/video/BV18Z4y1Y7Wo |
+| lec09  | Containers（容器）                                           | https://www.bilibili.com/video/BV1ie4y1R77y |
+| lab04  | Recursion, Tree Recursion, Python Lists（递归、树形递归、Python列表） | https://www.bilibili.com/video/BV1gT411J7Tr |
+| lec10  | Data Abstraction（数据抽象）                                 | https://www.bilibili.com/video/BV1da411n76i |
+| proj02 | Cats（猫猫打字通）                                           |                                             |
 
 
 
