@@ -27,6 +27,8 @@
 | lab04  | Recursion, Tree Recursion, Python Lists（递归、树形递归、Python列表） | https://www.bilibili.com/video/BV1gT411J7Tr |
 | lec10  | Data Abstraction（数据抽象）                                 | https://www.bilibili.com/video/BV1da411n76i |
 | proj02 | Cats（猫猫打字通）                                           | https://www.bilibili.com/video/BV1Dg411f7nj |
+| lec11  | Tree（树）                                                   | https://www.bilibili.com/video/BV1JB4y1Y73A |
+| lab05  | Data Abstraction, Trees（数据抽象，树）                      | https://www.bilibili.com/video/BV1Ae4y197Lh |
 
 
 
