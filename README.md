@@ -31,6 +31,8 @@
 | lab05  | Data Abstraction, Trees（数据抽象，树）                      | https://www.bilibili.com/video/BV1Ae4y197Lh |
 | lec12  | Mutable Values（可修改的值）                                 | https://www.bilibili.com/video/BV1PG4y1i7ps |
 | hw03   | Trees, Data Abstraction（树，数据抽象）                      | https://www.bilibili.com/video/BV11U4y1i7dv |
+| lec13  | Mutable Functions（可修性的函数）                            | https://www.bilibili.com/video/BV1og411Z7wS |
+| lab06  | Nonlocal, Mutability（非本地和修改性）                       | https://www.bilibili.com/video/BV1xB4y187bu |
 
 
 
