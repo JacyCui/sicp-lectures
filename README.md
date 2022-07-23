@@ -29,6 +29,8 @@
 | proj02 | Cats（猫猫打字通）                                           | https://www.bilibili.com/video/BV1Dg411f7nj |
 | lec11  | Tree（树）                                                   | https://www.bilibili.com/video/BV1JB4y1Y73A |
 | lab05  | Data Abstraction, Trees（数据抽象，树）                      | https://www.bilibili.com/video/BV1Ae4y197Lh |
+| lec12  | Mutable Values（可修改的值）                                 | https://www.bilibili.com/video/BV1PG4y1i7ps |
+| hw03   | Trees, Data Abstraction（树，数据抽象）                      | https://www.bilibili.com/video/BV11U4y1i7dv |
 
 
 
