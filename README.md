@@ -33,6 +33,9 @@
 | hw03   | Trees, Data Abstraction（树，数据抽象）                      | https://www.bilibili.com/video/BV11U4y1i7dv |
 | lec13  | Mutable Functions（可修性的函数）                            | https://www.bilibili.com/video/BV1og411Z7wS |
 | lab06  | Nonlocal, Mutability（非本地和修改性）                       | https://www.bilibili.com/video/BV1xB4y187bu |
+| lec14  | Iterators（迭代器）                                          | https://www.bilibili.com/video/BV1rW4y127FT |
+| lec15  | Objects（对象）                                              | https://www.bilibili.com/video/BV1cU4y1v7cw |
+| hw04   | Nonlocal, Iterators（非本地变量，迭代器）                    | https://www.bilibili.com/video/BV1se4y1Q73F |
 
 
 
