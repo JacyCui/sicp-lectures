@@ -36,6 +36,8 @@
 | lec14  | Iterators（迭代器）                                          | https://www.bilibili.com/video/BV1rW4y127FT |
 | lec15  | Objects（对象）                                              | https://www.bilibili.com/video/BV1cU4y1v7cw |
 | hw04   | Nonlocal, Iterators（非本地变量，迭代器）                    | https://www.bilibili.com/video/BV1se4y1Q73F |
+| lec16  | Inheritance（继承）                                          | https://www.bilibili.com/video/BV1ZB4y1t7JC |
+| lab07  | Iterators, Generators, OOP（迭代器，生成子和面向对象）       | https://www.bilibili.com/video/BV18W4y1y7TB |
 
 
 
