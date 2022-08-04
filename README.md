@@ -38,6 +38,7 @@
 | hw04   | Nonlocal, Iterators（非本地变量，迭代器）                    | https://www.bilibili.com/video/BV1se4y1Q73F |
 | lec16  | Inheritance（继承）                                          | https://www.bilibili.com/video/BV1ZB4y1t7JC |
 | lab07  | Iterators, Generators, OOP（迭代器，生成子和面向对象）       | https://www.bilibili.com/video/BV18W4y1y7TB |
+| proj03 | Ants（蚂蚁塔防）                                             | https://www.bilibili.com/video/BV11g41117zh |
 
 
 
