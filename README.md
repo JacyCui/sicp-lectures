@@ -39,6 +39,13 @@
 | lec16  | Inheritance（继承）                                          | https://www.bilibili.com/video/BV1ZB4y1t7JC |
 | lab07  | Iterators, Generators, OOP（迭代器，生成子和面向对象）       | https://www.bilibili.com/video/BV18W4y1y7TB |
 | proj03 | Ants（蚂蚁塔防）                                             | https://www.bilibili.com/video/BV11g41117zh |
+| lec17  | Representation（表示）                                       | https://www.bilibili.com/video/BV1Dt4y137UN |
+| lec18  | Composition（组合）                                          | https://www.bilibili.com/video/BV1QF411A7py |
+| hw05   | OOP, Linked Lists, Trees（面向对象，链表，树）               | https://www.bilibili.com/video/BV1mt4y137pP |
+| lec19  | Efficiency（效率）                                           | https://www.bilibili.com/video/BV1Vg411y7WQ |
+| lab08  | Linked Lists, Trees（链表，树）                              | https://www.bilibili.com/video/BV1Ag411k7vn |
+| lec20  | Decomposition（解构）                                        | https://www.bilibili.com/video/BV1zv4y1F7vR |
+| lab09  | Midterm Review（阶段性复习）                                 | https://www.bilibili.com/video/BV1nS4y1s7pr |
 
 
 
