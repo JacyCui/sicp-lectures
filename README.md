@@ -46,10 +46,13 @@
 | lab08  | Linked Lists, Trees（链表，树）                              | https://www.bilibili.com/video/BV1Ag411k7vn |
 | lec20  | Decomposition（解构）                                        | https://www.bilibili.com/video/BV1zv4y1F7vR |
 | lab09  | Midterm Review（阶段性复习）                                 | https://www.bilibili.com/video/BV1nS4y1s7pr |
-
-
-
-
-
+| lec21  | Scheme（Scheme语言基础）                                     | https://www.bilibili.com/video/BV1cd4y1P7Th |
+| lab10  | Scheme（Scheme语言基础）                                     | https://www.bilibili.com/video/BV1Fd4y1o7Vt |
+| hw06   | Scheme（Scheme语言基础）                                     | https://www.bilibili.com/video/BV1Aa411Z7Ed |
+| lec22  | Exceptions（异常）                                           | https://www.bilibili.com/video/BV1R14y1b7Cv |
+| lec23  | Calculator（计算器）                                         | https://www.bilibili.com/video/BV1FB4y1z7W3 |
+| hw07   | Scheme Lists（Scheme链表）                                   | https://www.bilibili.com/video/BV1vG4y1a7Mb |
+| lec24  | Interpreters（解释器）                                       | https://www.bilibili.com/video/BV14G411b7sr |
+| lab11  | Interpreters（解释器）                                       | https://www.bilibili.com/video/BV1aB4y1V73q |
 
 
