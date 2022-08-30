@@ -54,5 +54,5 @@
 | hw07   | Scheme Lists（Scheme链表）                                   | https://www.bilibili.com/video/BV1vG4y1a7Mb |
 | lec24  | Interpreters（解释器）                                       | https://www.bilibili.com/video/BV14G411b7sr |
 | lab11  | Interpreters（解释器）                                       | https://www.bilibili.com/video/BV1aB4y1V73q |
-
+| proj04 | Scheme（Scheme解释器）                                       | https://www.bilibili.com/video/BV1WY4y1F74V |
 
