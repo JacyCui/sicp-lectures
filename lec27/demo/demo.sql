@@ -1,4 +1,6 @@
-.open --new
+.open
+
+--new
 
 create table animals as
   select "dog" as kind, 4 as legs, 20 as weight union
