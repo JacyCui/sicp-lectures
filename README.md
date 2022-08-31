@@ -55,4 +55,12 @@
 | lec24  | Interpreters（解释器）                                       | https://www.bilibili.com/video/BV14G411b7sr |
 | lab11  | Interpreters（解释器）                                       | https://www.bilibili.com/video/BV1aB4y1V73q |
 | proj04 | Scheme（Scheme解释器）                                       | https://www.bilibili.com/video/BV1WY4y1F74V |
+| lec25  | Declarative Programming（申述式编程）                        | https://www.bilibili.com/video/BV17P411V71J |
+| hw08   | More Scheme（Scheme 练习）                                   | https://www.bilibili.com/video/BV1nD4y1B7uN |
+| lec26  | Table（表格）                                                | https://www.bilibili.com/video/BV1tP411V75a |
+| lab12  | SQL（SQL基础）                                               | https://www.bilibili.com/video/BV1iW4y1t7om |
+| lec27  | Aggregation（聚合）                                          | https://www.bilibili.com/video/BV1nU4y1r7EG |
+| hw09   | SQL（SQL 基础）                                              | https://www.bilibili.com/video/BV1914y1W7Rk |
+| lab13  | More SQL（SQL练习）                                          | https://www.bilibili.com/video/BV1xe4y1d7Lb |
+| lab14  | Final Review（最终复习）                                     | https://www.bilibili.com/video/BV1Sg411U7cW |
 
