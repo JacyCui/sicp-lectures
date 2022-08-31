@@ -1,4 +1,6 @@
-.open --new
+.open 
+
+--new
 
 -- Cities
 create table cities as

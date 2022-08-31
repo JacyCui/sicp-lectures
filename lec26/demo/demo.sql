@@ -1,4 +1,6 @@
-.open --new
+.open
+
+--new
 
 ----------
 -- Dogs --
@@ -25,6 +27,12 @@ CREATE TABLE dogs AS
   SELECT "grover"         , "short"       UNION
   SELECT "herbert"        , "curly";
 
+-- Granddog
+CREATE TABLE grandparents AS
+  SELECT a.parent AS grandog, b.child AS granpup 
+    FROM parents AS a, parents AS b 
+    WHERE a.child = b.parent;
+
 ------------
 -- Cities --
 ------------
@@ -46,4 +54,3 @@ CREATE TABLE nouns AS
   SELECT "the dog" AS phrase UNION
   SELECT "the cat"           UNION
   SELECT "the bird";
-
